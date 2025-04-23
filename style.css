@@ -6,7 +6,7 @@
   }
   
   body {
-    background: #4a88ce;
+    background: #00333f;
     color: #ffee00;
     padding: 20px;
     line-height: 1.6;
@@ -72,7 +72,7 @@
   }
   
   .footer a {
-    color: #00bfff;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
   }
@@ -85,4 +85,24 @@
     margin-top: 40px;
     color: #ccc;
   }
-  
+
+  .loh {
+    font-size: 4rem;
+    background-color: #a408ff;
+    background-image: linear-gradient(to top, #ffe100 0%, #f8ffaa 100%);
+    background-size: 100% ;
+    -webkit-background-clip: text ;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+  }
+  .loh2{
+    font-size: 4rem;
+    background-color: #a408ff;
+    background-image: linear-gradient(to top, #ffe600 0%, #ffe600 100%);
+    background-size: 100% ;
+    -webkit-background-clip: text ;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+  }
